@@ -1,0 +1,16 @@
+{
+  "name": "decap-cms-app-peer-deps",
+  "version": "1.0.0",
+  "homepage": "https://github.com/danwulff/decap-cms-app-peer-deps#readme",
+  "bugs": {
+    "url": "https://github.com/danwulff/decap-cms-app-peer-deps/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwulff/decap-cms-app-peer-deps.git"
+  },
+  "type": "module",
+  "dependencies": {
+    "decap-cms-app": "^3.5.0"
+  }
+}
